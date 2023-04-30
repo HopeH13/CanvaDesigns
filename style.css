@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&family=Noto+Sans:wght@300;400&family=Nova+Square&family=Open+Sans:wght@300&family=Poppins&family=Roboto&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.header {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+  }
+  .autopic {
+    min-width: 600px;
+    
+}
+.hotelpic{
+    min-width: 600px;
+}
+hr{
+    height:2px;
+    border-width:10px;
+    color:rgb(136, 231, 255);
+    background-color:rgb(175, 220, 241);
+}
+h2{
+    padding: 10px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:gray;
+}
